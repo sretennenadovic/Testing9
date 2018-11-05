@@ -42,7 +42,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Models\Discount.cs" />
     <Compile Include="Models\Location.cs" />
     <Compile Include="Models\Partner.cs" />
     <Compile Include="Models\Category.cs" />
